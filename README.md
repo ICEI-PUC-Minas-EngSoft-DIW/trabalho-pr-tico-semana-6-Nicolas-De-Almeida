@@ -8,18 +8,27 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Nicolas De Almeida
+- Matricula: 1638671
+- Proposta de projeto escolhida: Uma ONG sobre aquecimento global
+- Breve descrição sobre seu projeto: Planejo criar um site que fale e talvez ensine um pouco sobre aquecimento global.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Preview](./public/img/Screenshot_1.png)
+![Preview](./public/img/Screenshot_2.png)
+![Preview](./public/img/Screenshot_3.png)
+![Preview](./public/img/Screenshot_4.png)
+
+
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Preview](./public/img/Screenshot_1m.png)
+![Preview](./public/img/Screenshot_2m.png)
+![Preview](./public/img/Screenshot_3m.png)
+![Preview](./public/img/Screenshot_4m.png)
+![Preview](./public/img/Screenshot_5m.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
